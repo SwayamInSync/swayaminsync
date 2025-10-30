@@ -7,4 +7,4 @@ Learning and Building:
 - Kernel optimizations
 - Distributed Systems
 
-<img src="https://github-readme-stats.vercel.app/api?username=swayaminsync&hide_rank=false&show_icons=true&hide_title=false&count_private=true&theme=radical&hide_border=false&include_all_commits=true" width="55%"/>
+![Swayam's GitHub stats](https://github-readme-stats.vercel.app/api?username=swayaminsync&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
