@@ -15,4 +15,5 @@
 
 Pushing the boundaries of numerical computing, performance engineering, and low-level systems, while building tools that make advanced computation accessible to everyone.
 
-![Swayam's GitHub stats](https://github-readme-stats.vercel.app/api?username=swayaminsync&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+![Streak](https://github-stats-iota-lovat.vercel.app/api?username=SwayamInSync&show_icons=true)
+
