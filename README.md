@@ -7,13 +7,11 @@
 
 ## 🚀 Learning & Exploring
 
-* **LLVM & Compiler Development**
-* **Kernel-level optimizations**
+* **ML Systems and Compilation**
+* **GPU programming and optimizations**
 * **Distributed Systems & large-scale compute**
 
-## 🌱 What I’m focused on
-
-Pushing the boundaries of numerical computing, performance engineering, and low-level systems, while building tools that make advanced computation accessible to everyone.
+For discussions, ping me on [X/swayaminsync](https://x.com/swayaminsync) or email at <singhswayam008@gmail.com>
 
 ![Streak](https://github-stats-iota-lovat.vercel.app/api?username=SwayamInSync&show_icons=true)
 
