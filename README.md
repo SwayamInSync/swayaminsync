@@ -1,3 +1,5 @@
+![Profile views](https://komarev.com/ghpvc/?username=SwayamInSync&style=for-the-badge)
+
 ## 👨‍💻 Ongoing Work
 
 * Building **efficient algorithms for training Machine Learning models** [[1]](http://aka.ms/nextcoder)
