@@ -9,11 +9,16 @@
 
 ## 🚀 Learning & Exploring
 
-* **ML Systems and Compilation**
+* **ML Systems and Performance Engineering**
+* **Developing better algorithms for efficient Model Training**
 * **GPU programming and optimizations**
 * **Distributed Systems & large-scale compute**
 
-For discussions, ping me on [X/swayaminsync](https://x.com/swayaminsync) or email at <singhswayam008@gmail.com>
+Get in touch:
+- [X/swayaminsync](https://x.com/swayaminsync)
+- [LinkedIn](https://www.linkedin.com/in/swayam-singh-406610213/)
+- [Portfolio](https://swayaminsync.github.io/)
+- Personal Email <singhswayam008@gmail.com>
 
 ![Streak](https://github-stats-iota-lovat.vercel.app/api?username=SwayamInSync&show_icons=true)
 
