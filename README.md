@@ -5,7 +5,7 @@
 * Building **efficient algorithms for training Machine Learning models** [[1]](http://aka.ms/nextcoder)
 * Developing a **cross-platform 128-bit floating-point dtype for NumPy**
 
-  → [numpy-user-dtypes: quad dtype](https://github.com/numpy/numpy-user-dtypes/tree/main/quaddtype)
+  → [numpy-quaddtype](https://github.com/numpy/numpy-quaddtype)
 
 ## 🚀 Learning & Exploring
 
