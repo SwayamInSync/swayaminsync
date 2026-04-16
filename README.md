@@ -1,10 +1,13 @@
 ![Profile views](https://komarev.com/ghpvc/?username=SwayamInSync&style=for-the-badge)
 
-## 👨‍💻 Ongoing Work
+## 🧑‍🎓Research
 
 * Building **efficient algorithms for training Machine Learning models** [microsoft/nextcoder](http://aka.ms/nextcoder)
+
+## 👨‍💻 Ongoing Work
+
 * Developing a **cross-platform 128-bit floating-point dtype for NumPy**
-  → [numpy-quaddtype](https://github.com/numpy/numpy-quaddtype)
+  → [numpy/numpy-quaddtype](https://github.com/numpy/numpy-quaddtype)
 * Extending C++ to support **Program Verification using SMT Solvers** → [cpp-verify](https://github.com/SwayamInSync/cpp-verify)
 
 ## 🚀 Learning & Exploring
