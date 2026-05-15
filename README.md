@@ -1,5 +1,11 @@
 ![Profile views](https://komarev.com/ghpvc/?username=SwayamInSync&style=for-the-badge)
 
+## About Me
+
+Hi, I'm Swayam, an ML Researcher at Microsoft Research India.
+
+I work across the stack, from training algorithms and RL training for LLMs, to GPU kernels and high precision numerical libraries, to formal verification tooling for C++.
+
 ## Research & Engineering
 
 * Building **efficient algorithms for training Machine Learning models** [microsoft/nextcoder](http://aka.ms/nextcoder)
