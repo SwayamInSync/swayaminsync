@@ -2,9 +2,11 @@
 
 ## About Me
 
-Hi, I'm Swayam, an ML Researcher at Microsoft Research India.
-
-I work across the stack, from training algorithms and RL training for LLMs, to GPU kernels and high precision numerical libraries, to formal verification tooling for C++.
+Hi, Swayam here, I work in the following areas
+- LLM pretraining and post-training
+- Compiler engineering
+- Developing and maintaining GPU kernels and high precision numerical libraries
+- Distributed systems and networking
 
 ## Research & Engineering
 
@@ -13,13 +15,6 @@ I work across the stack, from training algorithms and RL training for LLMs, to G
   → [numpy/numpy-quaddtype](https://github.com/numpy/numpy-quaddtype)
 * Extending C++ to support **Program Verification using SMT Solvers** → [cpp-verify](https://github.com/SwayamInSync/cpp-verify)
 * High-performance BLAS for **IEEE 754 binary128 (quad-precision) floating point** → [QBLAS](https://github.com/SwayamInSync/QBLAS)
-
-## 🚀 Learning & Exploring
-
-* **ML Systems and Performance Engineering**
-* **Developing better algorithms for efficient Model Training**
-* **GPU programming and optimizations**
-* **Distributed Systems & large-scale compute**
 
 Get in touch:
 - [X/swayaminsync](https://x.com/swayaminsync)
