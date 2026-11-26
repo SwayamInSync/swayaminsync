@@ -2,9 +2,10 @@
 
 ## About Me
 
-Hi, Swayam here, I work in the following areas
+Hi, I am Swayam Singh, a Software Engineer II at Quansight PBC, I was formerly at Microsoft Research and I work in the following areas
 - LLM pretraining and post-training
 - Compiler engineering
+- Formal Verification of Software
 - Developing and maintaining GPU kernels and high precision numerical libraries
 - Distributed systems and networking
 
